@@ -56,12 +56,14 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNunes-DEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNunes-DEV&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-</p>
+## 🗂️ GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/GuilhermeNunes-DEV">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNunes-DEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNunes-DEV&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</p>
 
 
 
@@ -74,6 +76,6 @@
 ### ✉️ Contact Me
 
 
-<img src="https://i.imgur.com/G4x4x6l.gif" alt="Homem-Aranha dançando" width="350"/>
+
 
 
