@@ -1,5 +1,5 @@
 <p align="center">
-  # Hi 👋, I'm Guilherme Nunes
+   Hi 👋, I'm Guilherme Nunes
 </p>
 
 ### 📘 About Me
