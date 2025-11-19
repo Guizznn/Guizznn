@@ -3,11 +3,11 @@
 📘 About Me
 ---
 
-🎓 Computer Science Student (6th semester)
-⚙️ Developer passionate about technology and problem-solving
-🔥 Currently working with Python, Java, and C
-🚀 Seeking to evolve and start investing and growing in the technology field
-💻 My first contact with programming was with C
+. 🎓 Computer Science Student (6th semester)
+. ⚙️ Developer passionate about technology and problem-solving
+. 🔥 Currently working with Python, Java, and C
+. 🚀 Seeking to evolve and start investing and growing in the technology field
+. 💻 My first contact with programming was with C
 
 ---
 
@@ -35,9 +35,9 @@
 
 
 </div>
+
 📊 GitHub Stats
 
----
 <div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Guizznn&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guizznn&layout=compact&theme=tokyonight" /> </div>
 ---
 
