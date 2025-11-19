@@ -1,5 +1,7 @@
  Hi 👋, I'm Guilherme Nunes
-<div align="center"> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350"> </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/7UibmXS0JjgzG/giphy.gif" width="260">
+</div>
 📘 About Me
 
 🎓 Computer Science Student (6th semester)
@@ -13,7 +15,7 @@
 💻 My first contact with programming was with C
 
 🛠️ Skills
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/> </div>
 
 
 
