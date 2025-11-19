@@ -1,7 +1,5 @@
  Hi 👋, I'm Guilherme Nunes
-<div align="center">
-  <img src="https://media.giphy.com/media/7UibmXS0JjgzG/giphy.gif" width="260">
-</div>
+
 📘 About Me
 
 🎓 Computer Science Student (6th semester)
