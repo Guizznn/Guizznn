@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Wolfram_Language-5E5E5E?style=for-the-badge&logo=wolfram-language&logoColor=white" alt="Wolfram Language"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
@@ -80,7 +79,7 @@
 
 
 
-
+![Homem-Aranha](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc4cTE3OHV0cGUwbzAzZTZuN2h2MTNlMGZ3cWU0bXY5ankyY245cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8zYunr3Hg8XPq/giphy.gif)
 
 
 
