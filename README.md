@@ -16,7 +16,6 @@
 ---
 
 ## < / > Skills
----
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo"  />
@@ -56,14 +55,8 @@
 
 ---
 
-## 🗂️ GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/GuilhermeNunes-DEV">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNunes-DEV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNunes-DEV&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</p>
+📊 GitHub Stats
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Guizznn&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guizznn&layout=compact&theme=tokyonight" /> </div>
 
 
 
