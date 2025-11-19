@@ -4,9 +4,13 @@
 ---
 
 . 🎓 Computer Science Student (6th semester)
+
 . ⚙️ Developer passionate about technology and problem-solving
+
 . 🔥 Currently working with Python, Java, and C
+
 . 🚀 Seeking to evolve and start investing and growing in the technology field
+
 . 💻 My first contact with programming was with C
 
 ---
@@ -34,7 +38,7 @@
 
 
 
-</div>
+
 
 📊 GitHub Stats
 
