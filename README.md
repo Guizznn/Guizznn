@@ -1,4 +1,6 @@
-# Hi 👋, I'm Guilherme Nunes
+<p align="center">
+  # Hi 👋, I'm Guilherme Nunes
+</p>
 
 ### 📘 About Me
 ---
@@ -69,6 +71,5 @@
 
 
 <p align="right">
-  <img src="https://i.imgur.com/bL6t3F0.gif" alt="Homem-Aranha" width="200"/>
+  <img src="[https://i.imgur.com/your-uploaded-spider-gif.gif](https://i.pinimg.com/originals/06/68/92/066892f535c9d44eb66ca19f9debbefe.gif)" alt="Homem-Aranha" width="100"/>
 </p>
-
