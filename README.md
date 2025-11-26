@@ -56,7 +56,11 @@
 ---
 
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guizznn&show_icons=true&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guizznn&layout=compact&theme=tokyonight" /> </div>
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jaquilunu&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquilunu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquilunu&layout=compact&theme=tokyonight&hide_border=true&hide=G-code&langs_count=8&custom_title=Most%20Used%20Languages" />
+</p>
 
 
 
