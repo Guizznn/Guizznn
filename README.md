@@ -70,6 +70,14 @@
 
 
 ### ✉️ Contact Me
-
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:gn34817@gmail.com"><img src="https://img.shields.io/badge/Gmail-6f2dbd?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail"></a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/guilherme-nunes-3a164b287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
+    </td>
+  </tr>
+</table>
 
